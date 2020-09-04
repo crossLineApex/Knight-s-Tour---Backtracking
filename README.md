@@ -1,4 +1,4 @@
-# Knight-s-Tour---Backtracking
+# Knight's-Tour---Backtracking
 
 This project visualizes one of the famous Backtracking problems - Knight's Tour.
 This visualization shows one of the possible paths a knight can take to cover the entire chessboard with possible moves.
